@@ -21,8 +21,6 @@ I plan to **complete and optimize** the project in the near future.
 * Advanced preprocessing (lemmatization, handling emojis, hashtags).
 * Model training with machine learning / deep learning (e.g., Logistic Regression, LSTM, BERT).
 * Visualization of sentiment distribution.
-* Web/GUI interface for live tweet sentiment monitoring.
-* Deployment (Heroku / Streamlit).
 
 ---
 
